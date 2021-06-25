@@ -5,3 +5,6 @@ The following is a MATLAB script than can be used to view velocities from a netc
 Convert the rtf file into MATLAB compatible .m script and then enter your desired latitude and longitude values
 You may decide to uncomment any additional plotting features in the script for your own use
 Please report to me if faced any errors or have a suggestion for changes, that can be incorporated
+
+
+I've added the .m script 
